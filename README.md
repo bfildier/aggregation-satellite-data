@@ -1,0 +1,1 @@
+Explore satellite data (IASI, ASCAT, ...) and attempt to detect features of convective organization in the moisture field and wind patterns such as moisture gradients and surface winds characteristic of the radiative feedback
